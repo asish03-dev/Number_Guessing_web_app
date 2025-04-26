@@ -1,0 +1,44 @@
+body {
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+}
+
+.asish {
+    color: black;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    padding: auto;
+    font-size: 28px;
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+}
+
+input {
+    height: 33px;
+    font-size: 18px;
+
+
+}
+
+button {
+    background-color: black;
+    color: white;
+    display: flex;
+    height: fit-content;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 8px;
+    border: solid black 2px;
+    padding-top: 2px;
+    font-size: 30px;
+}
